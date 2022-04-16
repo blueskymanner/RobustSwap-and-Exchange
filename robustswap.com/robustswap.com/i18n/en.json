@@ -1,0 +1,1796 @@
+{
+  "data": [
+    {
+      "data": {
+        "stringId": 278,
+        "text": "Farm"
+      }
+    },
+    {
+      "data": {
+        "stringId": 280,
+        "text": "Staking"
+      }
+    },
+    {
+      "data": {
+        "stringId": 284,
+        "text": "Exchange"
+      }
+    },
+    {
+      "data": {
+        "stringId": 286,
+        "text": "Docs"
+      }
+    },
+    {
+      "data": {
+        "stringId": 288,
+        "text": "Voting"
+      }
+    },
+    {
+      "data": {
+        "stringId": 290,
+        "text": "Lottery"
+      }
+    },
+    {
+      "data": {
+        "stringId": 292,
+        "text": "UNLOCK WALLET"
+      }
+    },
+    {
+      "data": {
+        "stringId": 294,
+        "text": "Your %asset% Balance"
+      }
+    },
+    {
+      "data": {
+        "stringId": 295,
+        "text": "How often you can harvest your earned RBS."
+      }
+    },
+    {
+      "data": {
+        "stringId": 296,
+        "text": "Total %asset% Supply"
+      }
+    },
+    {
+      "data": {
+        "stringId": 297,
+        "text": "TVL"
+      }
+    },
+    {
+      "data": {
+        "stringId": 298,
+        "text": "Locked"
+      }
+    },
+    {
+      "data": {
+        "stringId": 299,
+        "text": "The multiplier represents the amount of RBS rewards each farm gets. For example, if a 1x farm was getting 1 RBS per block, a 40x farm would be getting 40 RBS per block."
+      }
+    },
+    {
+      "data": {
+        "stringId": 300,
+        "text": "Pending harvest"
+      }
+    },
+    {
+      "data": {
+        "stringId": 301,
+        "text": "Total USD value of funds in this farm’s liquidity pool"
+      }
+    },
+    {
+      "data": {
+        "stringId": 302,
+        "text": "Emission Per Block"
+      }
+    },
+    {
+      "data": {
+        "stringId": 303,
+        "text": "Earned"
+      }
+    },
+    {
+      "data": {
+        "stringId": 304,
+        "text": "Total ROBUST burned since launch"
+      }
+    },
+    {
+      "data": {
+        "stringId": 305,
+        "text": "Total USD value of funds in this pool"
+      }
+    },
+    {
+      "data": {
+        "stringId": 306,
+        "text": "See the Kitchen"
+      }
+    },
+    {
+      "data": {
+        "stringId": 308,
+        "text": "Telegram"
+      }
+    },
+    {
+      "data": {
+        "stringId": 310,
+        "text": "Blog"
+      }
+    },
+    {
+      "data": {
+        "stringId": 312,
+        "text": "Github"
+      }
+    },
+    {
+      "data": {
+        "stringId": 314,
+        "text": "Twitter"
+      }
+    },
+    {
+      "data": {
+        "stringId": 316,
+        "text": "Deposit"
+      }
+    },
+    {
+      "data": {
+        "stringId": 318,
+        "text": "Earn"
+      }
+    },
+    {
+      "data": {
+        "stringId": 319,
+        "text": "Rates are estimates provided for your convenience only, and by no means represent guaranteed returns."
+      }
+    },
+    {
+      "data": {
+        "stringId": 320,
+        "text": "Stake LP Tokens to Earn ROBUST"
+      }
+    },
+    {
+      "data": {
+        "stringId": 321,
+        "text": "STAKE"
+      }
+    },
+    {
+      "data": {
+        "stringId": 322,
+        "text": "Stake ROBUST, get SYRUP."
+      }
+    },
+    {
+      "data": {
+        "stringId": 323,
+        "text": "Timeframe"
+      }
+    },
+    {
+      "data": {
+        "stringId": 324,
+        "text": "ROI"
+      }
+    },
+    {
+      "data": {
+        "stringId": 325,
+        "text": "RBS PER"
+      }
+    },
+    {
+      "data": {
+        "stringId": 326,
+        "text": "ENABLE"
+      }
+    },
+    {
+      "data": {
+        "stringId": 328,
+        "text": "You can swap back anytime"
+      }
+    },
+    {
+      "data": {
+        "stringId": 329,
+        "text": "Staked"
+      }
+    },
+    {
+      "data": {
+        "stringId": 330,
+        "text": "%asset% Earned"
+      }
+    },
+    {
+      "data": {
+        "stringId": 331,
+        "text": "Earned"
+      }
+    },
+    {
+      "data": {
+        "stringId": 332,
+        "text": "Tokens Staked"
+      }
+    },
+    {
+      "data": {
+        "stringId": 333,
+        "text": "Staked Tokens"
+      }
+    },
+    {
+      "data": {
+        "stringId": 334,
+        "text": "Every time you stake and unstake ROBUST tokens, the contract will automatically harvest ROBUST rewards for you!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 335,
+        "text": "Total Volume Locked"
+      }
+    },
+    {
+      "data": {
+        "stringId": 336,
+        "text": "Unlock Wallet to access stats for farms, staking and lottery"
+      }
+    },
+    {
+      "data": {
+        "stringId": 337,
+        "text": "MY ROBUST Summary"
+      }
+    },
+    {
+      "data": {
+        "stringId": 338,
+        "text": "The Sous Chef is cooking up a treat for all SYRUP holders"
+      }
+    },
+    {
+      "data": {
+        "stringId": 339,
+        "text": "Welcome to ROBUSTSwap"
+      }
+    },
+    {
+      "data": {
+        "stringId": 340,
+        "text": "SYRUP Tokens Staked"
+      }
+    },
+    {
+      "data": {
+        "stringId": 341,
+        "text": "Yearly"
+      }
+    },
+    {
+      "data": {
+        "stringId": 342,
+        "text": "XVS Tokens Earned"
+      }
+    },
+    {
+      "data": {
+        "stringId": 343,
+        "text": "Monthly"
+      }
+    },
+    {
+      "data": {
+        "stringId": 344,
+        "text": "Stake your SYRUP to earn tokens of new projects."
+      }
+    },
+    {
+      "data": {
+        "stringId": 345,
+        "text": "Weekly"
+      }
+    },
+    {
+      "data": {
+        "stringId": 346,
+        "text": "Rewards will be calculated per block and total rewards will be distributed automatically at the end of each project\u2019s farming period."
+      }
+    },
+    {
+      "data": {
+        "stringId": 347,
+        "text": "Daily"
+      }
+    },
+    {
+      "data": {
+        "stringId": 348,
+        "text": "Jungle"
+      }
+    },
+    {
+      "data": {
+        "stringId": 349,
+        "text": "Earnings"
+      }
+    },
+    {
+      "data": {
+        "stringId": 350,
+        "text": "Coming soon"
+      }
+    },
+    {
+      "data": {
+        "stringId": 351,
+        "text": "ROBUST Holdings"
+      }
+    },
+    {
+      "data": {
+        "stringId": 352,
+        "text": "APR"
+      }
+    },
+    {
+      "data": {
+        "stringId": 353,
+        "text": "TVL All Pools"
+      }
+    },
+    {
+      "data": {
+        "stringId": 354,
+        "text": "Total Liquidity"
+      }
+    },
+    {
+      "data": {
+        "stringId": 355,
+        "text": "Pair Info"
+      }
+    },
+    {
+      "data": {
+        "stringId": 356,
+        "text": "View Contract"
+      }
+    },
+    {
+      "data": {
+        "stringId": 357,
+        "text": "TRADE NOW"
+      }
+    },
+    {
+      "data": {
+        "stringId": 358,
+        "text": "ROBUST price"
+      }
+    },
+    {
+      "data": {
+        "stringId": 359,
+        "text": "Price"
+      }
+    },
+    {
+      "data": {
+        "stringId": 360,
+        "text": "%asset% Tokens Earned"
+      }
+    },
+    {
+      "data": {
+        "stringId": 362,
+        "text": "%num% blocks until farming ends"
+      }
+    },
+    {
+      "data": {
+        "stringId": 364,
+        "text": "Total Syrup Staked"
+      }
+    },
+    {
+      "data": {
+        "stringId": 380,
+        "text": "1 ROBUST = 1 SYRUP"
+      }
+    },
+    {
+      "data": {
+        "stringId": 382,
+        "text": "Coming soon..."
+      }
+    },
+    {
+      "data": {
+        "stringId": 384,
+        "text": "Your Staked"
+      }
+    },
+    {
+      "data": {
+        "stringId": 386,
+        "text": "Farming starts in %num% Blocks"
+      }
+    },
+    {
+      "data": {
+        "stringId": 388,
+        "text": "Finished"
+      }
+    },
+    {
+      "data": {
+        "stringId": 390,
+        "text": "Farming ends in %num% Blocks"
+      }
+    },
+    {
+      "data": {
+        "stringId": 392,
+        "text": "Project Site"
+      }
+    },
+    {
+      "data": {
+        "stringId": 394,
+        "text": "Unstake SYRUP"
+      }
+    },
+    {
+      "data": {
+        "stringId": 395,
+        "text": "Hot"
+      }
+    },
+    {
+      "data": {
+        "stringId": 400,
+        "text": "SYRUP holders proportionally split 25% of ROBUST block emissions each day (10 RBS per block), Rewards are distributed each block."
+      }
+    },
+    {
+      "data": {
+        "stringId": 401,
+        "text": "Jungle Type"
+      }
+    },
+    {
+      "data": {
+        "stringId": 402,
+        "text": "Stake SYRUP to earn new tokens."
+      }
+    },
+    {
+      "data": {
+        "stringId": 403,
+        "text": "Withdrawl Lockup"
+      }
+    },
+    {
+      "data": {
+        "stringId": 406,
+        "text": "Rewards are calculated per block."
+      }
+    },
+    {
+      "data": {
+        "stringId": 408,
+        "text": "Total Staked"
+      }
+    },
+    {
+      "data": {
+        "stringId": 409,
+        "text": "APPLY FOR LISTING"
+      }
+    },
+    {
+      "data": {
+        "stringId": 410,
+        "text": "End"
+      }
+    },
+    {
+      "data": {
+        "stringId": 411,
+        "text": "Start"
+      }
+    },
+    {
+      "data": {
+        "stringId": 412,
+        "text": "View project site"
+      }
+    },
+    {
+      "data": {
+        "stringId": 414,
+        "text": "Your Project? \ud83d\udc40"
+      }
+    },
+    {
+      "data": {
+        "stringId": 416,
+        "text": "Create a pool for your token"
+      }
+    },
+    {
+      "data": {
+        "stringId": 418,
+        "text": "Apply now"
+      }
+    },
+    {
+      "data": {
+        "stringId": 420,
+        "text": "Phase 1: BUYING"
+      }
+    },
+    {
+      "data": {
+        "stringId": 424,
+        "text": "%num% ROBUST"
+      }
+    },
+    {
+      "data": {
+        "stringId": 426,
+        "text": "Spend ROBUST to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 428,
+        "text": "Your total tickets for this round"
+      }
+    },
+    {
+      "data": {
+        "stringId": 430,
+        "text": "Buy ticket"
+      }
+    },
+    {
+      "data": {
+        "stringId": 432,
+        "text": "View your tickets"
+      }
+    },
+    {
+      "data": {
+        "stringId": 434,
+        "text": "Approx. time left to buy tickets"
+      }
+    },
+    {
+      "data": {
+        "stringId": 438,
+        "text": "Close"
+      }
+    },
+    {
+      "data": {
+        "stringId": 440,
+        "text": "Latest Winning Numbers"
+      }
+    },
+    {
+      "data": {
+        "stringId": 442,
+        "text": "Tickets matching 4 numbers:"
+      }
+    },
+    {
+      "data": {
+        "stringId": 444,
+        "text": "Tickets matching 3 numbers:"
+      }
+    },
+    {
+      "data": {
+        "stringId": 446,
+        "text": "Tickets matching 2 numbers:"
+      }
+    },
+    {
+      "data": {
+        "stringId": 448,
+        "text": "Export recent winning numbers"
+      }
+    },
+    {
+      "data": {
+        "stringId": 450,
+        "text": "Enter amount of tickets to buy"
+      }
+    },
+    {
+      "data": {
+        "stringId": 451,
+        "text": "Ends on"
+      }
+    },
+    {
+      "data": {
+        "stringId": 452,
+        "text": "MAX"
+      }
+    },
+    {
+      "data": {
+        "stringId": 453,
+        "text": "Available LP"
+      }
+    },
+    {
+      "data": {
+        "stringId": 454,
+        "text": "%num% ROBUST Available"
+      }
+    },
+    {
+      "data": {
+        "stringId": 456,
+        "text": "Your amount must be a multiple of 10 ROBUST"
+      }
+    },
+    {
+      "data": {
+        "stringId": 457,
+        "text": "Multiplier"
+      }
+    },
+    {
+      "data": {
+        "stringId": 458,
+        "text": "1 Ticket = 10 ROBUST"
+      }
+    },
+    {
+      "data": {
+        "stringId": 460,
+        "text": "You will spend: %num% ROBUST"
+      }
+    },
+    {
+      "data": {
+        "stringId": 462,
+        "text": "CANCEL"
+      }
+    },
+    {
+      "data": {
+        "stringId": 464,
+        "text": "Confirm"
+      }
+    },
+    {
+      "data": {
+        "stringId": 466,
+        "text": "Warning"
+      }
+    },
+    {
+      "data": {
+        "stringId": 468,
+        "text": "Lottery ticket purchases are final."
+      }
+    },
+    {
+      "data": {
+        "stringId": 472,
+        "text": "Tickets are only valid for one lottery draw, and will be burned after the draw."
+      }
+    },
+    {
+      "data": {
+        "stringId": 474,
+        "text": "Buying tickets does not guarantee you will win anything. Please only participate once you understand the risks."
+      }
+    },
+    {
+      "data": {
+        "stringId": 476,
+        "text": "I understand"
+      }
+    },
+    {
+      "data": {
+        "stringId": 478,
+        "text": "Ticket purchases are final. Your ROBUST cannot be returned to you after buying tickets."
+      }
+    },
+    {
+      "data": {
+        "stringId": 480,
+        "text": "Claim prizes"
+      }
+    },
+    {
+      "data": {
+        "stringId": 482,
+        "text": "ROBUST prizes to be claimed"
+      }
+    },
+    {
+      "data": {
+        "stringId": 484,
+        "text": "Phase 2: CLAIMING"
+      }
+    },
+    {
+      "data": {
+        "stringId": 486,
+        "text": "You can unstake at any time."
+      }
+    },
+    {
+      "data": {
+        "stringId": 488,
+        "text": "Pending Confirmation"
+      }
+    },
+    {
+      "data": {
+        "stringId": 490,
+        "text": "My Tickets (Total: %TICKETS%)"
+      }
+    },
+    {
+      "data": {
+        "stringId": 492,
+        "text": "Approx. time before next lottery start"
+      }
+    },
+    {
+      "data": {
+        "stringId": 494,
+        "text": "Approve ROBUST"
+      }
+    },
+    {
+      "data": {
+        "stringId": 495,
+        "text": "ENABLE FARM"
+      }
+    },
+    {
+      "data": {
+        "stringId": 496,
+        "text": "SYRUP holders proportionally split 40% of ROBUST block emissions each day (10 RBS per block), Rewards are distributed each block."
+      }
+    },
+    {
+      "data": {
+        "stringId": 500,
+        "text": "Trade with ease"
+      }
+    },
+    {
+      "data": {
+        "stringId": 502,
+        "text": "ROBUSTSWAP exchange gives you a hassle-free & reliable decentralized trading."
+      }
+    },
+    {
+      "data": {
+        "stringId": 504,
+        "text": "You\u2019ll pay for the new tokens using ROBUST-BNB LP tokens, which means you need to stake equal amounts of ROBUST and BNB in a liquidity pool to take part."
+      }
+    },
+    {
+      "data": {
+        "stringId": 505,
+        "text": "GET"
+      }
+    },
+    {
+      "data": {
+        "stringId": 506,
+        "text": "Get ROBUST-BNB LP >"
+      }
+    },
+    {
+      "data": {
+        "stringId": 507,
+        "text": "GET LP"
+      }
+    },
+    {
+      "data": {
+        "stringId": 508,
+        "text": "The project gets the BNB, ROBUSTSwap burns the ROBUST."
+      }
+    },
+    {
+      "data": {
+        "stringId": 509,
+        "text": "Earn RBS."
+      }
+    },
+    {
+      "data": {
+        "stringId": 510,
+        "text": "You get the tokens."
+      }
+    },
+    {
+      "data": {
+        "stringId": 512,
+        "text": "Want To Launch Your Own IPO?"
+      }
+    },
+    {
+      "data": {
+        "stringId": 514,
+        "text": "Launch your project with ROBUSTSwap, Binance Smart Chain\u2019s fastest growing AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC."
+      }
+    },
+    {
+      "data": {
+        "stringId": 516,
+        "text": "Apply to launch"
+      }
+    },
+    {
+      "data": {
+        "stringId": 520,
+        "text": "Community"
+      }
+    },
+    {
+      "data": {
+        "stringId": 522,
+        "text": "Core"
+      }
+    },
+    {
+      "data": {
+        "stringId": 526,
+        "text": "Available"
+      }
+    },
+    {
+      "data": {
+        "stringId": 527,
+        "text": "Total Supply"
+      }
+    },
+    {
+      "data": {
+        "stringId": 528,
+        "text": "My Wallet"
+      }
+    },
+    {
+      "data": {
+        "stringId": 529,
+        "text": "VIEW DETAIL"
+      }
+    },
+    {
+      "data": {
+        "stringId": 530,
+        "text": "Sign out"
+      }
+    },
+    {
+      "data": {
+        "stringId": 531,
+        "text": "HARVEST ALL"
+      }
+    },
+    {
+      "data": {
+        "stringId": 532,
+        "text": "Harvest all (%count%)"
+      }
+    },
+    {
+      "data": {
+        "stringId": 533,
+        "text": "Contract Address"
+      }
+    },
+    {
+      "data": {
+        "stringId": 534,
+        "text": "ROBUST Stats"
+      }
+    },
+    {
+      "data": {
+        "stringId": 535,
+        "text": "Total Supply"
+      }
+    },
+    {
+      "data": {
+        "stringId": 536,
+        "text": "Minted"
+      }
+    },
+    {
+      "data": {
+        "stringId": 538,
+        "text": "Burned"
+      }
+    },
+    {
+      "data": {
+        "stringId": 540,
+        "text": "New ROBUST\/Block"
+      }
+    },
+    {
+      "data": {
+        "stringId": 542,
+        "text": "Farms & Staking"
+      }
+    },
+    {
+      "data": {
+        "stringId": 544,
+        "text": "Farms & Staking"
+      }
+    },
+    {
+      "data": {
+        "stringId": 546,
+        "text": "In your wallet"
+      }
+    },
+    {
+      "data": {
+        "stringId": 548,
+        "text": "HARVESTING RBS"
+      }
+    },
+    {
+      "data": {
+        "stringId": 549,
+        "text": "Collecting"
+      }
+    },
+    {
+      "data": {
+        "stringId": 550,
+        "text": "Your Lottery Winnings"
+      }
+    },
+    {
+      "data": {
+        "stringId": 552,
+        "text": "ROBUST to Collect"
+      }
+    },
+    {
+      "data": {
+        "stringId": 554,
+        "text": "Join the revolution with the Robust Protocol community."
+      }
+    },
+    {
+      "data": {
+        "stringId": 556,
+        "text": "Collect Winnings"
+      }
+    },
+    {
+      "data": {
+        "stringId": 558,
+        "text": "BUY"
+      }
+    },
+    {
+      "data": {
+        "stringId": 562,
+        "text": "HARVEST"
+      }
+    },
+    {
+      "data": {
+        "stringId": 564,
+        "text": "Approve"
+      }
+    },
+    {
+      "data": {
+        "stringId": 568,
+        "text": "Select"
+      }
+    },
+    {
+      "data": {
+        "stringId": 570,
+        "text": "Winning Numbers This Round"
+      }
+    },
+    {
+      "data": {
+        "stringId": 574,
+        "text": "Staking Pool"
+      }
+    },
+    {
+      "data": {
+        "stringId": 576,
+        "text": "Welcome to ROBUSTSWAP"
+      }
+    },
+    {
+      "data": {
+        "stringId": 578,
+        "text": "A hyper-deflationary decentralized exchange with yield farming designed to optimize profitability."
+      }
+    },
+    {
+      "data": {
+        "stringId": 580,
+        "text": "Stake ROBUST to Earn New Tokens"
+      }
+    },
+    {
+      "data": {
+        "stringId": 582,
+        "text": "Launch Time"
+      }
+    },
+    {
+      "data": {
+        "stringId": 584,
+        "text": "For Sale"
+      }
+    },
+    {
+      "data": {
+        "stringId": 586,
+        "text": "ROBUST to burn (USD)"
+      }
+    },
+    {
+      "data": {
+        "stringId": 588,
+        "text": "Unstake"
+      }
+    },
+    {
+      "data": {
+        "stringId": 590,
+        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest ROBUST rewards for you!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 592,
+        "text": "How To Take Part"
+      }
+    },
+    {
+      "data": {
+        "stringId": 594,
+        "text": "Price and pool share"
+      }
+    },
+    {
+      "data": {
+        "stringId": 596,
+        "text": "Buy ROBUST and BNB tokens"
+      }
+    },
+    {
+      "data": {
+        "stringId": 598,
+        "text": "Get ROBUST-BNB LP tokens by adding ROBUST and BNB liquidity"
+      }
+    },
+    {
+      "data": {
+        "stringId": 599,
+        "text": "Finished"
+      }
+    },
+    {
+      "data": {
+        "stringId": 600,
+        "text": "During Sale"
+      }
+    },
+    {
+      "data": {
+        "stringId": 601,
+        "text": "Live"
+      }
+    },
+    {
+      "data": {
+        "stringId": 602,
+        "text": "While the sale is live, commit your ROBUST-LP tokens to buy the IPO tokens"
+      }
+    },
+    {
+      "data": {
+        "stringId": 604,
+        "text": "After Sale"
+      }
+    },
+    {
+      "data": {
+        "stringId": 606,
+        "text": "Claim the tokens you purchased, along with any unspent funds."
+      }
+    },
+    {
+      "data": {
+        "stringId": 608,
+        "text": "Done!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 610,
+        "text": "Read more"
+      }
+    },
+    {
+      "data": {
+        "stringId": 612,
+        "text": "Connect"
+      }
+    },
+    {
+      "data": {
+        "stringId": 614,
+        "text": "Trade in for ROBUST, or keep for your collection!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 616,
+        "text": "Register your interest in winning an NFT below."
+      }
+    },
+    {
+      "data": {
+        "stringId": 618,
+        "text": "Register for a chance to win"
+      }
+    },
+    {
+      "data": {
+        "stringId": 620,
+        "text": "Learn more"
+      }
+    },
+    {
+      "data": {
+        "stringId": 622,
+        "text": "Trade in NFT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 624,
+        "text": "Trade in"
+      }
+    },
+    {
+      "data": {
+        "stringId": 626,
+        "text": "You will receive"
+      }
+    },
+    {
+      "data": {
+        "stringId": 628,
+        "text": "When you trade in this NFT to receive ROBUST, you will lose access to it forever!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 630,
+        "text": "Claim NFT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 632,
+        "text": "How It Works"
+      }
+    },
+    {
+      "data": {
+        "stringId": 634,
+        "text": "Winners will be able to claim an NFT on this page once the claiming period starts."
+      }
+    },
+    {
+      "data": {
+        "stringId": 636,
+        "text": "If you are not selected, you won\u2019t be able to claim. Better luck next time!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 638,
+        "text": "Winners can trade in their NFTs for a ROBUST value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 640,
+        "text": "How are winners selected?"
+      }
+    },
+    {
+      "data": {
+        "stringId": 642,
+        "text": "Winners are selected at random! Good luck!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 646,
+        "text": "Value if traded in"
+      }
+    },
+    {
+      "data": {
+        "stringId": 648,
+        "text": "Number minted"
+      }
+    },
+    {
+      "data": {
+        "stringId": 650,
+        "text": "Number burned"
+      }
+    },
+    {
+      "data": {
+        "stringId": 652,
+        "text": "Claim this NFT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 653,
+        "text": "Top pairs"
+      }
+    },
+    {
+      "data": {
+        "stringId": 654,
+        "text": "Trade in for ROBUST"
+      }
+    },
+    {
+      "data": {
+        "stringId": 655,
+        "text": "Top Pools"
+      }
+    },
+    {
+      "data": {
+        "stringId": 656,
+        "text": "Loading\u2026"
+      }
+    },
+    {
+      "data": {
+        "stringId": 657,
+        "text": "Top Farms"
+      }
+    },
+    {
+      "data": {
+        "stringId": 658,
+        "text": "Details"
+      }
+    },
+    {
+      "data": {
+        "stringId": 659,
+        "text": "Activities"
+      }
+    },
+    {
+      "data": {
+        "stringId": 660,
+        "text": "You won!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 661,
+        "text": "Audit completed by TechRate"
+      }
+    },
+    {
+      "data": {
+        "stringId": 662,
+        "text": "Claim an NFT from the options below!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 663,
+        "text": "Be part of ROBUST family"
+      }
+    },
+    {
+      "data": {
+        "stringId": 664,
+        "text": "Can be traded until"
+      }
+    },
+    {
+      "data": {
+        "stringId": 666,
+        "text": "Wallet Disconnected"
+      }
+    },
+    {
+      "data": {
+        "stringId": 668,
+        "text": "Connect to see if you have won an NFT!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 670,
+        "text": "Home"
+      }
+    },
+    {
+      "data": {
+        "stringId": 672,
+        "text": "Trade"
+      }
+    },
+    {
+      "data": {
+        "stringId": 674,
+        "text": "Farms"
+      }
+    },
+    {
+      "data": {
+        "stringId": 676,
+        "text": "Pools"
+      }
+    },
+    {
+      "data": {
+        "stringId": 678,
+        "text": "NFT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 680,
+        "text": "Info"
+      }
+    },
+    {
+      "data": {
+        "stringId": 682,
+        "text": "IPO"
+      }
+    },
+    {
+      "data": {
+        "stringId": 684,
+        "text": "More"
+      }
+    },
+    {
+      "data": {
+        "stringId": 686,
+        "text": "Liquidity"
+      }
+    },
+    {
+      "data": {
+        "stringId": 688,
+        "text": "Overview"
+      }
+    },
+    {
+      "data": {
+        "stringId": 690,
+        "text": "Token"
+      }
+    },
+    {
+      "data": {
+        "stringId": 692,
+        "text": "Pairs"
+      }
+    },
+    {
+      "data": {
+        "stringId": 694,
+        "text": "Accounts"
+      }
+    },
+    {
+      "data": {
+        "stringId": 696,
+        "text": "Stake LP tokens to earn ROBUST"
+      }
+    },
+    {
+      "data": {
+        "stringId": 698,
+        "text": "Active"
+      }
+    },
+    {
+      "data": {
+        "stringId": 699,
+        "text": "Staked only"
+      }
+    },
+    {
+      "data": {
+        "stringId": 700,
+        "text": "Inactive"
+      }
+    },
+    {
+      "data": {
+        "stringId": 702,
+        "text": "Dual"
+      }
+    },
+    {
+      "data": {
+        "stringId": 704,
+        "text": "Compound"
+      }
+    },
+    {
+      "data": {
+        "stringId": 705,
+        "text": "Compounding"
+      }
+    },
+    {
+      "data": {
+        "stringId": 706,
+        "text": "Unstake %asset%"
+      }
+    },
+    {
+      "data": {
+        "stringId": 708,
+        "text": "The ROBUST Lottery"
+      }
+    },
+    {
+      "data": {
+        "stringId": 710,
+        "text": "Buy tickets with ROBUST"
+      }
+    },
+    {
+      "data": {
+        "stringId": 712,
+        "text": "Win if 2, 3 or 4 of your ticket numbers match!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 716,
+        "text": "Next draw"
+      }
+    },
+    {
+      "data": {
+        "stringId": 718,
+        "text": "Past draws"
+      }
+    },
+    {
+      "data": {
+        "stringId": 720,
+        "text": "Sell Tax"
+      }
+    },
+    {
+      "data": {
+        "stringId": 722,
+        "text": "Buy Tax"
+      }
+    },
+    {
+      "data": {
+        "stringId": 724,
+        "text": "Transfer Tax"
+      }
+    },
+    {
+      "data": {
+        "stringId": 725,
+        "text": "Hide"
+      }
+    },
+    {
+      "data": {
+        "stringId": 726,
+        "text": "Amount Limit"
+      }
+    },
+    {
+      "data": {
+        "stringId": 728,
+        "text": "In Wallet"
+      }
+    },
+    {
+      "data": {
+        "stringId": 729,
+        "text": "ROBUSTSWAP Farms offer multiple farming opportunities and high rewards to you. Get rewarded by staking your LP tokens."
+      }
+    },
+    {
+      "data": {
+        "stringId": 730,
+        "text": "Looking for competitive rewards, low-risk, and no impermanent-loss farming alternative? Stake your RBS and other tokens below to earn more RBS."
+      }
+    },
+    {
+      "data": {
+        "stringId": 731,
+        "text": "RBS Transaction Limit"
+      }
+    },
+    {
+      "data": {
+        "stringId": 733,
+        "text": "RBS Supply Stats"
+      }
+    },
+    {
+      "data": {
+        "stringId": 734,
+        "text": "Enjoy "
+      }
+    },
+    {
+      "data": {
+        "stringId": 735,
+        "text": "FREE"
+      }
+    },
+    {
+      "data": {
+        "stringId": 736,
+        "text": "deposit with our featured farms."
+      }
+    },
+    {
+      "data": {
+        "stringId": 737,
+        "text": "High APR,"
+      }
+    },
+    {
+      "data": {
+        "stringId": 738,
+        "text": "low risk earning."
+      }
+    },
+    {
+      "data": {
+        "stringId": 10000,
+        "text": "Burn amount"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10001,
+        "text": "Deposit Fee"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10002,
+        "text": "Stake Tokens to Earn ROBUST"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10003,
+        "text": "Earn RBS together."
+      }
+    },
+    {
+      "data": {
+        "stringId": 10004,
+        "text": "Circulation"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10005,
+        "text": "Market Cap"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10006,
+        "text": "Invite friends."
+      }
+    },
+    {
+      "data": {
+        "stringId": 10007,
+        "text": "Invite your friends with your referral link and get rewarded from their earnings."
+      }
+    },
+    {
+      "data": {
+        "stringId": 10008,
+        "text": "Unlock your wallet & Get started"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10009,
+        "text": "Referral Link"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10010,
+        "text": "Total Referrals"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10011,
+        "text": "Search"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10024,
+        "text": "Your RBS Earnings"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10025,
+        "text": "TVL"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10026,
+        "text": "Total Locked Rewards"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10027,
+        "text": "Harvest Interval"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10028,
+        "text": "Hours"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10029,
+        "text": "Harvest In"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10030,
+        "text": "Maximum"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10031,
+        "text": "ROBUST LP Worth"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10032,
+        "text": "LP Type"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10033,
+        "text": "Taxed"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10034,
+        "text": "DEX Stats"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10035,
+        "text": "Total Liquidity"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10036,
+        "text": "24H Volume"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10037,
+        "text": "LP Worth"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10038,
+        "text": "Token Price"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10039,
+        "text": "Follow us on twitter"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10040,
+        "text": "24H Low"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10041,
+        "text": "24H High"
+      }
+    }
+  ],
+  "pagination": {
+    "offset": 0,
+    "limit": 200
+  }
+}
